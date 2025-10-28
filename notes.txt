@@ -1,0 +1,22 @@
+progress:
+option 1: basically done, add a 'close search' to the end of the second or third search
+option 2: almost done, add a 'do you want to close or go back' option for both the wide search and narrow search.
+maybe add an option to search by the usage range.
+option 3: add a go back / continue / close option
+option 4: done
+
+
+add a go back / continue / close option for nearly ALL menus and assign ascending numbers for each listed process
+
+add an option to update the lists
+
+add a loading screen in between menus
+
+add better spacing in between menus
+
+add the ability to analyze processes uniquely by entering the number attached to the process like this (123), and 
+when entered it asks a question like 'is this_process.67 the correct process (y/n)' and if you enter n it asks you to 
+either enter a different number or close the menu, if you enter y it displays its name, runtime, and its usage for
+most components + the ability to kill the process but only for certain types of processes so that it doesnt mess up
+ your pc. it will also list the process type and extra cool things. it will also give you the option to scan for malware
+ depending on the type of process it is.
